@@ -1,0 +1,17 @@
+,matchID,fullTimeMS,timeStamp,blueChampionKill,blueFirstBlood,blueDragonKill,blueDragonHextechKill,blueDragonChemtechKill,blueDragonFireKill,blueDragonAirKill,blueDragonEarthKill,blueDragonWaterKill,blueDragonElderKill,blueVoidGrubKill,blueRiftHeraldKill,blueBaronKill,blueTowerKill,blueInhibitorKill,blueTotalGold,blueMinionsKilled,blueJungleMinionsKilled,blueAvgPlayerLevel,blueWin,redChampionKill,redFirstBlood,redDragonKill,redDragonHextechKill,redDragonChemtechKill,redDragonFireKill,redDragonAirKill,redDragonEarthKill,redDragonWaterKill,redDragonElderKill,redVoidGrubKill,redRiftHeraldKill,redBaronKill,redTowerKill,redInhibitorKill,redTotalGold,redMinionsKilled,redJungleMinionsKilled,redAvgPlayerLevel,redWin
+107000,BR1_2999237113,2136986,600000,6,False,0,0,0,0,0,0,0,0,3,0,0,0,0,16953,217,59,35,True,7,True,0,0,0,0,0,0,0,0,0,0,0,0,0,17071,239,51,35,False
+107001,BR1_2998919319,1646890,600000,7,False,0,0,0,0,0,0,0,0,3,0,0,0,0,17474,230,58,36,False,8,True,1,0,0,1,0,0,0,0,0,0,0,0,0,18243,239,56,36,True
+107002,BR1_2998746753,1647033,600000,8,True,0,0,0,0,0,0,0,0,3,0,0,0,0,17579,215,55,35,False,6,False,0,0,0,0,0,0,0,0,0,0,0,0,0,16592,247,45,35,True
+107003,BR1_2996788786,2073003,600000,8,True,1,0,0,0,0,0,1,0,0,0,0,0,0,17143,240,45,36,False,4,False,0,0,0,0,0,0,0,0,3,0,0,0,0,15669,196,87,33,True
+107004,BR1_2987805519,2106050,600000,5,True,0,0,0,0,0,0,0,0,2,0,0,0,0,16869,270,48,36,True,3,False,0,0,0,0,0,0,0,0,1,0,0,0,0,15695,243,66,36,False
+107005,BR1_2986590868,1943567,600000,5,False,1,1,0,0,0,0,0,0,1,0,0,0,0,16902,234,50,35,False,9,True,0,0,0,0,0,0,0,0,1,0,0,0,0,17338,215,56,34,True
+107006,BR1_3008979313,1710164,600000,12,True,0,0,0,0,0,0,0,0,0,0,0,0,0,19906,242,72,37,True,7,False,0,0,0,0,0,0,0,0,3,0,0,0,0,17001,202,54,35,False
+107007,BR1_3008076978,2075621,600000,10,True,0,0,0,0,0,0,0,0,2,0,0,0,0,19203,253,59,38,False,7,False,0,0,0,0,0,0,0,0,1,0,0,0,0,17043,223,54,36,True
+107008,BR1_3008033168,2002550,600000,13,True,0,0,0,0,0,0,0,0,3,0,0,0,0,18906,181,59,36,True,10,False,0,0,0,0,0,0,0,0,0,0,0,0,0,18933,209,52,35,False
+107009,BR1_3006782127,1860880,600000,4,True,0,0,0,0,0,0,0,0,3,0,0,0,0,16922,245,54,35,True,4,False,0,0,0,0,0,0,0,0,0,0,0,0,0,15238,214,60,35,False
+107010,BR1_3006757427,2103861,600000,8,True,0,0,0,0,0,0,0,0,3,0,0,0,0,17428,232,54,36,False,7,False,1,0,1,0,0,0,0,0,0,0,0,0,0,17454,235,56,35,True
+107011,BR1_3006702938,1697872,600000,3,True,0,0,0,0,0,0,0,0,3,0,0,0,0,16052,256,54,37,True,3,False,1,0,0,0,0,1,0,0,0,0,0,0,0,15242,225,51,36,False
+107012,BR1_3006682418,1794991,600000,5,False,1,0,0,0,0,1,0,0,1,0,0,0,0,15277,193,66,34,False,8,True,0,0,0,0,0,0,0,0,1,0,0,0,0,17111,222,62,35,True
+107013,BR1_3006666216,1809359,600000,10,True,0,0,0,0,0,0,0,0,0,0,0,0,0,17870,241,27,34,True,4,False,1,0,0,0,0,0,1,0,0,0,0,0,0,15064,171,72,35,False
+107014,BR1_3005984155,1857554,600000,8,True,0,0,0,0,0,0,0,0,2,0,0,0,0,17724,241,63,35,False,6,False,0,0,0,0,0,0,0,0,0,0,0,0,0,17167,218,68,35,True
+107015,BR1_3005935583,1757373,600000,3,True,1,1,0,0,0,0,0,0,0,0,0,0,0,15257,217,64,35,False,3,False,0,0,0,0,0,0,0,0,3,0,0,0,0,16049,267,62,35,True
