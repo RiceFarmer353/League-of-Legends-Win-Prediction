@@ -14,8 +14,7 @@ number of video game matches from the MOBA League of Legends, which was created 
 by the game developer company Riot Games in 2009. The dataset from this study was acquired by
 utilizing the Riot API.
 
-The Machine Learning models which were applied onto the datasets are the following: Logistic Re-
-gression, Decision Tree, Random Forest, K-Nearest-Neighbor, Naive Bayes, Support Vector Machine,
+The Machine Learning models which were applied onto the datasets are the following: Logistic Regression, Decision Tree, Random Forest, K-Nearest-Neighbor, Naive Bayes, Support Vector Machine,
 Neural Network, Ada Boost and Gradient Boosting. The implementation of the respective models
 required the scikit-learn Python library (cf. Pedregosa et al. 2011), while other libraries, such as numpy
 (cf. Harris et al. 2020), matplotlib (cf. Hunter 2007), pandas (cf. McKinney 2010), and seaborn (cf.
